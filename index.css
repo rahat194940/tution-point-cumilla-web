@@ -1,8 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
 
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
 
 
 
@@ -27,4 +28,56 @@ a {
     text-decoration: none;
     color: #333;
     font-family: Poppins;
+}
+
+.humble {
+    color: #333;
+    font-family:Poppins ;
+}
+
+.ganja{
+    color:#333 ;
+    font-family:Poppins ;
+}
+
+.home-page {
+    margin-left:50px;
+    margin-right:40px;
+    display: flex;
+    align-items:center;
+    gap:50px;
+    margin-top:50px ;
+}
+
+.navbutton {
+    background-color:coral;
+    font-family:Poppins ;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    border:black solid 2px;
+    text-decoration-color: #333;
+    margin-left: 309px;
+    border-radius: 5PX;
+
+}
+
+.navubutton { 
+    background-color:coral;
+    font-family:Poppins ;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    border:black solid 2px;
+    text-decoration-color: #333;
+    border-radius: 5PX;
+
+}
+
+button {
+    display: flex;
+    align-items: center;
+    gap: 2spx;
+    
+    
 }
