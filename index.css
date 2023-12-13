@@ -5,7 +5,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
 
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
 
 
 header {
@@ -81,7 +81,7 @@ button {
 
 .title-of-testimonial {
     text-align: center;
-    margin-top: 56px;
+    margin-top: 50px;
     margin-bottom: 50px;
     margin-right: 50px;
     margin-left: 50px; 
@@ -92,18 +92,55 @@ button {
 
 .profile {
     display: flex;
-    gap: 50px;
-  }
+    gap: 60px;
+    margin-top: 57px;
+    }
   
+
   .profile-1,
   .profile-2,
   .profile-3 {
-    display: grid;
+    display: grid ;
     justify-items: center;
   }
+
   
+  section {
+    margin-right:50px ;
+    margin-left: 50px ;
+  }
 
+  .biri {
+    font-family:Poppins;
+  }
 
+  .img-1,
+  .img-2,
+  .img-3 {
+    border: #333 solid;
+  }
 
+  .mod {
+    font-family:Poppins ;
+    display: flex;
+    text-align: center;
+  }
 
+  .mahinur {
+    display :flex;
+    justify-content:center;
+    gap: 60px;
+  }
 
+  footer {
+    text-align: center;
+    background-color:#333;
+    color: white;
+    padding:80px ;
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    }
+
+    
+    
