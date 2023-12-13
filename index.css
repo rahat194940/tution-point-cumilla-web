@@ -46,7 +46,7 @@ a {
     display: flex;
     align-items:center;
     gap:50px;
-    margin-top:50px ;
+    margin-top:30px ;
 }
 
 .navbutton {
@@ -61,7 +61,7 @@ a {
     border-radius: 5PX;
 }
 
-.navubutton { 
+.navubutton {
     background-color:coral;
     font-family:Poppins ;
     padding: 10px 10px;
@@ -78,4 +78,32 @@ button {
     align-items: center;
     gap: 5px;
 }
+
+.title-of-testimonial {
+    text-align: center;
+    margin-top: 56px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px; 
+    font-size: 35px;
+    font-family:Poppins;
+    text-decoration-color:#333;
+}
+
+.profile {
+    display: flex;
+    gap: 50px;
+  }
+  
+  .profile-1,
+  .profile-2,
+  .profile-3 {
+    display: grid;
+    justify-items: center;
+  }
+  
+
+
+
+
 
