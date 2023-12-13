@@ -14,7 +14,7 @@ header {
     gap: 40px;
     align-items: center;
     margin-top: 5px;
-    margin-right: 50px;
+    margin-right: 1px;
 }
  
 nav {
@@ -59,7 +59,6 @@ a {
     text-decoration-color: #333;
     margin-left: 309px;
     border-radius: 5PX;
-
 }
 
 .navubutton { 
@@ -71,13 +70,12 @@ a {
     border:black solid 2px;
     text-decoration-color: #333;
     border-radius: 5PX;
-
+    margin-left:px;
 }
 
 button {
     display: flex;
     align-items: center;
-    gap: 2spx;
-    
-    
+    gap: 5px;
 }
+
