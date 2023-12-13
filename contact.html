@@ -12,6 +12,9 @@
  />
 
  <style>
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+
     input,
     textarea {
       width: 70%;
@@ -19,10 +22,28 @@
       border-radius: 8px;
     }
 
-    button {
+    .none{
       font-size: 20px;
       padding: 8px;
     }
+
+    .bambli {
+        font-family:Poppins;
+        color: #333;
+    }
+
+    .home-pge {
+    margin-left:50px;
+    margin-right:50px;
+    display: flex;
+    align-items:center;
+    gap:130px;
+    margin-top:30px 
+    }
+.right {
+    margin-top: 50px;
+}
+    
   </style>
   </head>
 <body>
@@ -37,10 +58,10 @@
 </nav>
 </header>
 <main>
-    <section class="home-page">
+    <section class="home-pge">
         <div class="left">
-          <h1 style="font-size: 55px;">
-            Let’s Get In Touch !
+          <h1 class="bambli" style="font-size: 55px;">
+            Let’s Message Us!
           </h1>
     
           <form action="">
@@ -59,13 +80,12 @@
             <textarea name="message" id="" cols="30" rows="10"></textarea>
     
             <br><br>
-            <button>Submit</button>
+            <button class="none">Submit</button>
     
           </form>
         </div>
         <div class="right">
-          <img style="height: 450px;" src="images/contact/contact.svg" alt="">
-        </div>
+          <img style="height: 500px;width: 500px" src="kamer images/hometutor.png" alt="">        </div>
       </section>
 </main>
 <footer>
