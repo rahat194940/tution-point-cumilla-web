@@ -18,11 +18,9 @@ header {
     margin-right: 1px;
 }
 
-@media (max-width :360px) and (max-width :640) {
+@media all and (max-width :360px) and (max-width :640) {
 .imgofnav { visibility: hidden;
-  
-
-}
+  }
 }
  
 nav {
