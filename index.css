@@ -18,7 +18,7 @@ header {
     margin-right: 1px;
 }
 
-@media (max-width :500px) {
+@media (max-width :360px) and (max-width :640) {
 .imgofnav { visibility: hidden;
   
 
