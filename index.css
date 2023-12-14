@@ -19,8 +19,8 @@ header {
 }
 
 @media all and (max-width :500px) {
-.imgofnav { width: 10px;
-  height: 20px;
+.imgofnav { visibility: hidden;
+  
 
 }
 }
