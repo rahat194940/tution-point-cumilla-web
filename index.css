@@ -66,7 +66,7 @@ a {
     background-color:coral;
     font-family:Poppins ;
     padding: 10px 10px;
-    display: flexbox;
+    display: flex;
     align-items: center;
     border:black solid 2px;
     text-decoration-color: #333;
