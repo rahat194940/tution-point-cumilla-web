@@ -19,7 +19,7 @@ header {
 }
  
 nav {
-    display: flex;
+    display:flex;
   margin-top: 20px;
   gap: 40px;
   font-size: 22px;
