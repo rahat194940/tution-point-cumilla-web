@@ -19,7 +19,7 @@ header {
 }
 
 @media all and (max-width :500px) {
-.imgofnav { width: 20px;
+.imgofnav { width: 10px;
   height: 20px;
 
 }
