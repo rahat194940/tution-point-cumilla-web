@@ -17,6 +17,13 @@ header {
     margin-top: 5px;
     margin-right: 1px;
 }
+
+@media all and (max-width :500px) {
+.imgofnav { width: 20px;
+  height: 20px;
+
+}
+}
  
 nav {
     display:flex;
