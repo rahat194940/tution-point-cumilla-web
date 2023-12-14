@@ -10,7 +10,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Poppins:wght@400;600;800&display=swap');
 
 header {
-    display: flex;
+    display: flexbox;
     margin-left: 20px;
     gap: 40px;
     align-items: center;
@@ -19,7 +19,7 @@ header {
 }
  
 nav {
-    display:flex;
+    display:flexbox;
   margin-top: 20px;
   gap: 40px;
   font-size: 22px;
@@ -44,7 +44,7 @@ a {
 .home-page {
     margin-left:50px;
     margin-right:40px;
-    display: flex;
+    display: flexbox;
     align-items:center;
     gap:50px;
     margin-top:30px ;
@@ -54,7 +54,7 @@ a {
     background-color:coral;
     font-family:Poppins ;
     padding: 10px 10px;
-    display: flex;
+    display: flexbox;
     align-items: center;
     border:black solid 2px;
     text-decoration-color: #333;
@@ -66,7 +66,7 @@ a {
     background-color:coral;
     font-family:Poppins ;
     padding: 10px 10px;
-    display: flex;
+    display: flexbox;
     align-items: center;
     border:black solid 2px;
     text-decoration-color: #333;
@@ -75,7 +75,7 @@ a {
 }
 
 button {
-    display: flex;
+    display: flexbox;
     align-items: center;
     gap: 5px;
 }
@@ -92,7 +92,7 @@ button {
 }
 
 .profile {
-    display: flex;
+    display: flexbox;
     gap: 60px;
     margin-top: 57px;
     }
@@ -123,12 +123,12 @@ button {
 
   .mod {
     font-family:Poppins ;
-    display: flex;
+    display: flexbox;
     text-align: center;
   }
 
   .mahinur {
-    display :flex;
+    display :flexbox;
     justify-content:center;
     gap: 60px;
   }
@@ -139,7 +139,7 @@ button {
     color: white;
     padding:80px ;
     margin-top: 90px;
-    display: flex;
+    display:flexbox;
     justify-content: center;
     gap: 8px;
    }
