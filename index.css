@@ -17,11 +17,6 @@ header {
     margin-top: 5px;
     margin-right: 1px;
 }
-
-@media all and (max-width :360px) and (max-width :640) {
-.imgofnav { visibility: hidden;
-  }
-}
  
 nav {
     display:flex;
